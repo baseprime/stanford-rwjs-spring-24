@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Greg Sabia Tucker <greg@narrowlabs.com> (http://basepri.me/)",
+  "author": "Greg Sabia Tucker <gtucker@stanford.edu> (http://basepri.me/)",
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
